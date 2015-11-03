@@ -1,3 +1,4 @@
+[![Release](https://img.shields.io/github/release/prbdias/multilateration.svg?label=maven)](https://jitpack.io/#prbdias/multilateration)
 # Trilateration
 
 ![alt text](Trilateration.png)
