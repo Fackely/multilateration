@@ -6,9 +6,12 @@
  * For more details take a look at the Java Quickstart chapter in the Gradle
  * user guide available at http://gradle.org/docs/2.7/userguide/tutorial_java_projects.html
  */
+group = 'com.github.prbdias'
+
 
 // Apply the java plugin to add support for Java
 apply plugin: 'java'
+apply plugin: 'maven'
 
 // In this section you declare where to find the dependencies of your project
 repositories {
